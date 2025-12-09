@@ -854,7 +854,7 @@ Possible accepted values,
    IDM Activator
 ---------------------------------
    
-   Homepage:	https://github.com/RabbiIslamRony/idm-activator
+   Homepage:	https://rabbiislamrony.github.io/idm-activator/
    
    Telegram:	Unknown
 
