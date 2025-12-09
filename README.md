@@ -89,3 +89,6 @@ That's all.
 | **Dev** | **Contribution** |
 |---|---|
 | @RabbiIslamRony | Original researcher of this IDM trial reset and activation logic, made an Autoit tool for these methods, IDM\-AIO\_2020\_Final |
+
+
+**Note:** This is not my project. I cloned this repository for personal use only. (Rony)
